@@ -1,2 +1,2 @@
-# Employee_salary_pridiction
-Employee Salary prediction project
+# Employee_salary_pridiction_System
+Employee Salary prediction  System project
